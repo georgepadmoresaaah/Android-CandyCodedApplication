@@ -70,7 +70,7 @@ public class DetailActivity extends AppCompatActivity {
     }
 
     // ***
-    // TODO - Task 4 - Share the Current Candy with an Intent
+    // TODO - Task 4 - Share the Current Candy with an Intent 
     // ***
 
 
